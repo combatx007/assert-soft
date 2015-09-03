@@ -15,3 +15,4 @@ function AssertSoft(){
         return false;
     };
 }
+new AssertSoft();

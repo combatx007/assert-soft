@@ -1,5 +1,5 @@
 {
-  "name": "assert-soft",
+  "name": "AssertSoft",
   "version": "1.0.0",
   "description": "Soft assertion for javascript",
   "main": "index.js",
