@@ -1,0 +1,18 @@
+{
+  "name": "assert-soft",
+  "version": "1.0.0",
+  "description": "Soft assertion for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soft-assertion"
+  ],
+  "author": "Rusakov Artemy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/browsenpm.org"
+  }
+}
